@@ -1,7 +1,23 @@
-# Curso Github y Git
+# [Paolo Capcha](https://github.com/PaoloC16/curso-github)
 
-Este es mi primer ejercicio practico usando Git y Github.
+## Resumen📘
+Hola soy Paolo Capcha estudiante de desarrollo de software, este es un ejercicio del curso de Git y Github
 
-## Autor
+![Paolo capcha](https://img.freepik.com/vector-premium/icono-perfil-avatar_188544-4755.jpg)
 
-Paolo - Estudiante de desarrollo de software , aprendiendo Github y Git
+
+## 💻 Instalación
+
+- Ubicarse en la carpeta que contendra el proyecto
+- Abrir terminal de comandos
+    - git clone https://github.com/PaoloC16/curso-github.git
+    - cd curso-github
+    - Levantar la web en un servidor
+
+## 👨‍💻 Tecnologías usadas
+    HTML
+
+## 💻 Redes sociales
+- 🌐 Github: https://github.com/PaoloC16
+
+
